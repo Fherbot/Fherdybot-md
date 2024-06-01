@@ -1,10 +1,10 @@
 {
-  "name": "YoshikoBot-MD",
-  "website": "https://github.com/Diego-YL-177",
+  "name": "FherdyBot-MD",
+  "website": "https://github.com/Fherbot/Fherdybot-md.git",
   "description": "La Mejor Bot",
-  "repository": "https://github.com/Diego-YL-177/YoshikoBot-MD",
+  "repository": "https://github.com/Fherbot/Fherdybot-md.git",
   "logo": "https://raw.githubusercontent.com/Diego-YL-177/YoshikoBot-MD/master/src/pictures/heroku-icon.jpg",
-  "success_url": "https://github.com/Diego-YL-177/YoshikoBot-MD",
+  "success_url": "https://github.com/Fherbot/Fherdybot-md.git",
   "keywords": [
     "nodejs",
     "heroku",
@@ -20,9 +20,9 @@
     "whatsappbot",
     "oficial",
     "whatsapp-md",
-    "yoshikobot-md",
-    "yoshikobot-md",
-    "yoshikobot-md"],
+    "fherdybot-md",
+    "fherdybot-md",
+    "fherdybot-md"],
   "image": "heroku/nodejs",
   "buildpacks": [
     {
