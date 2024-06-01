@@ -22,12 +22,12 @@ const rl = createInterface(process.stdin, process.stdout)
 //const app = express()
 //const port = process.env.PORT || 8080;
 
-say('Yoshiko\nBot\nMD', {
+say('Fherdy\nBot\nMD', {
 font: 'block',
 align: 'center',
 colors: ['system', 'redBright']
 })
-say(`la mejor bot de whatsapp, by: yoshiko`, {
+say(`la mejor bot de whatsapp, by: fherdy`, {
 font: 'console',
 gradient: ['blue', 'magenta']
 })
