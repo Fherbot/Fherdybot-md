@@ -42,7 +42,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Fherbot/Fherdybot-md.git && cd FherdyBot-MD
+git clone gh repo clone Fherbot/Fherdybot-md && cd FherdyBot-MD
 ```
 ```bash
 yarn install && npm install
