@@ -1,6 +1,6 @@
 > 🚀🌸 Versión Actual: 1.0.7
 
-## Yoshiko Bot - MD 🌸☄️
+## Fherdy Bot - MD 🌸☄️
 
 <p align="center">
 <img src= "https://telegra.ph/file/54333f6030faadc899c8a.jpg" alt="Yoshiko" width="900"/>
@@ -14,7 +14,7 @@
 
 
 - ### ⚙️ Configuracion
- Clonar Repo : Yoshiko [Aqui.](https://github.com/Diego-YL-177/YoshikoBot-MD/fork)
+ Clonar Repo : Fherdy [Aqui.](https://github.com/Diego-YL-177/YoshikoBot-MD/fork)
 
 
 - ###  ⌨️ Instalar Por Render
@@ -42,7 +42,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Diego-YL-177/YoshikoBot-MD && cd YoshikoBot-MD
+git clone https://github.com/Fherbot/Fherdybot-md.git && cd YoshikoBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -55,28 +55,28 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd YoshikoBot-MD
+> cd FherdyBot-MD
 > npm start
 ```
 
 - ### 🌻 Obtener Otro Codigo Qr 
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd YoshikoBot-MD
-> rm -rf YoshiSession
+> cd FherdyBot-MD
+> rm -rf FherdySession
 > npm start
 ```
 
-- ### 🚀 Usar YoshikoBot 24/7 En Termux 
+- ### 🚀 Usar FherdyBot 24/7 En Termux 
 ```bash
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ``` 
-- ### ✅️ Actualizar Yoshiko 
-> Note Comandos para actualizar Yoshiko - MD de forma automática
+- ### ✅️ Actualizar Fherdy 
+> Note Comandos para actualizar Fherdy - MD de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Diego-YL-177/YoshikoBot-MD/master/update.sh | bash
 ```
-Para que no pierda su progreso en Yoshiko, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+Para que no pierda su progreso en Fherdy, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
 > Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
 
