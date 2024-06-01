@@ -3,7 +3,7 @@
 ## Fherdy Bot - MD 🌸☄️
 
 <p align="center">
-<img src= "https://www.google.com/search?client=tablet-android-xiaomi-rvo2b&sca_esv=894c3b17d49c6a75&sca_upv=1&sxsrf=ADLYWIKpr4fK0DHD_v8clFY0bloRjY9PNQ:1717266634826&q=c.r.o+animado+cantante&uds=ADvngMiyGWcET6YvTBrPzhETMTlrUs4qUoDSW8Mu-6BgP63pa_aaQTZ227cgQQrxi2gulrF3_rW3SklEnh-O8G1Q8Z4ERIYgRiv7caWomhEx4GGLzeqsJBiDlY7bd58odnRZcwGYzGkp4GPsh_84lGbEazStABltdKEI5-RLTAAK5X11OXjY4gBD_llpPlLcdGoO4P7H_UF8mLMn7Z3WaHATszsm0_-7pBVmuNeaG1bM9_p2hZjJDVmvH0JK_xWBO61AaiwFQzup50aRsXkMAMiGu6Y_ea5mbTjarALhLUzd7vERb-zhfOem-SVuzN3pngBlGnQQVZaYq-nNuqMa_4m9shcVs8azCd-hYLa1izKI2N4ZuTMq8ipPmra_qnyBGLGUGnv7Cxz014HHRnvtzPfw_zt285tuPrkx2vMHSYqugkV_ciBJYAN8WQpzndXojFPUCV-BzqN4ccxt0zFA33XzlQ_Z0QJ29euPSS3Gkgdd4i5bCbg4ByQ-HNticc1KhLUHyr3If860&udm=2&sa=X&ved=2ahUKEwiDhIPehLuGAxW1r5UCHfNqARcQxKsJegQIGxAB&ictx=0&biw=852&bih=1892&dpr=1.27#imgrc=OBsgKRILSzBACM&imgdii=8sVuFF6g9Ro2aM&ip=1" alt="Yoshiko" width="900"/>
+<img src= "https://photos.app.goo.gl/wtcmRM9qKFT1bDCi9" alt="Yoshiko" width="900"/>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
