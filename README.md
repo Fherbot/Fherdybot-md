@@ -3,7 +3,7 @@
 ## Fherdy Bot - MD 🌸☄️
 
 <p align="center">
-<img src= "https://photos.app.goo.gl/wtcmRM9qKFT1bDCi9" alt="Yoshiko" width="900"/>
+<img src= "https://photos.app.goo.gl/8Mvm4ktjK6SLGYk47" alt="Yoshiko" width="900"/>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
